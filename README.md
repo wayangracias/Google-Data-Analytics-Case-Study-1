@@ -1,15 +1,3 @@
-# Google-Data-Analytics-Case-Study-1
----
-title: "Google Data Analytics Case Study 1"
-author: "Wayan Gracias"
-date: "2022-10-06"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 ## Google Data Analytics Capstone Project: Case Study 1 - Cyclistic Bike Share
 
 ####loading libraries
